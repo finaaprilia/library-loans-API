@@ -23,6 +23,7 @@ Proyek ini merupakan backend API yang dirancang untuk mengelola data peminjaman 
 - Menerapkan arsitektur MVC pada pengembangan REST API dengan Node.js.
 - Memanfaatkan Supabase sebagai database-as-a-service berbasis PostgreSQL.
 - Men-deploy API secara serverless menggunakan Vercel.
+- Responsi Praktikum PPB Modul 1.
 
 ---
 
@@ -370,9 +371,3 @@ API ini di-deploy secara serverless menggunakan Vercel dengan konfigurasi beriku
 ```
 
 Base URL Deployment: `https://library-loans-api-tau.vercel.app`
-
----
-
-## Lisensi
-
-Proyek ini dibuat untuk keperluan akademik — Praktikum Pemrograman Perangkat Bergerak (PPB), Semester 5.
