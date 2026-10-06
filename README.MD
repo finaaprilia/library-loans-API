@@ -9,7 +9,7 @@ RESTful API untuk manajemen peminjaman buku perpustakaan, dibangun menggunakan N
 | Keterangan | URL |
 | --- | --- |
 | GitHub Repository | https://github.com/finaaprilia/library-loans-API |
-| Base URL Deployment (Vercel) | https://library-loans-api-tau.vercel.app |
+| Base URL Deployment (Vercel) | https://library-loans-api-ppb.vercel.app |
 
 ---
 
@@ -94,7 +94,7 @@ Data peminjaman disimpan pada tabel `loans` di Supabase dengan skema sebagai ber
 
 ## Daftar Endpoint API
 
-Base URL: `https://library-loans-api-tau.vercel.app`
+Base URL: `https://library-loans-api-ppb.vercel.app`
 
 | Method | Endpoint | Deskripsi |
 | --- | --- | --- |
@@ -370,4 +370,4 @@ API ini di-deploy secara serverless menggunakan Vercel dengan konfigurasi beriku
 }
 ```
 
-Base URL Deployment: `https://library-loans-api-tau.vercel.app`
+Base URL Deployment: `https://library-loans-api-ppb.vercel.app`
